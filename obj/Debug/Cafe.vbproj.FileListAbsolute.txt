@@ -1,0 +1,13 @@
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\bin\Debug\Cafe.exe.config
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\bin\Debug\Cafe.exe
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\bin\Debug\Cafe.pdb
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\bin\Debug\Cafe.xml
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\obj\Debug\Cafe.vbproj.AssemblyReference.cache
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\obj\Debug\Cafe.Resources.resources
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\obj\Debug\Cafe.vbproj.GenerateResource.cache
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\obj\Debug\Cafe.vbproj.CoreCompileInputs.cache
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\obj\Debug\Cafe.exe
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\obj\Debug\Cafe.xml
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\obj\Debug\Cafe.pdb
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\obj\Debug\Cafe.Form1.resources
+C:\Users\olgas\source\repos\ProgramacaoVB\Cafe\obj\Debug\Cafe.FormPagamento.resources
